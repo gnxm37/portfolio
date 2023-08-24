@@ -1,6 +1,6 @@
 # trading_web
 ## 실행 영상
-<img width="100%" src="https://github.com/gnxm37/portfolio/blob/main/phonebook/KakaoTalk_Video_2023-08-24-17-36-32.mp4"/>
+<img width="100%" src="https://github.com/gnxm37/portfolio/assets/133202877/f0fed569-65eb-4575-a89f-13429e3f1e8c"/>
 
 ## 환경세팅
 - Java 11 version
