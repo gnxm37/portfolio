@@ -1,7 +1,6 @@
 # trading_web
 ## 실행 영상
-<img width="100%" src="https://github.com/gnxm37/portfolio/issues/1#issuecomment-1695081090"/>
-
+https://github.com/gnxm37/portfolio/assets/133202877/8f986b7c-1ab6-4068-8015-fb2fcfcdcd6a
 
 ## 환경세팅
 - Java 11 version
