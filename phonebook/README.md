@@ -1,7 +1,7 @@
 # trading_web
 ## 실행 영상
 - 로그인 및 회원가입
-https://github.com/gnxm37/portfolio/assets/133202877/8f986b7c-1ab6-4068-8015-fb2fcfcdcd6a
+[https://github.com/gnxm37/portfolio/assets/133202877/8f986b7c-1ab6-4068-8015-fb2fcfcdcd6a](https://github.com/gnxm37/portfolio/issues/1#issue-1864725897)
 
 - 연락처 등록, 수정, 삭제 및 검색
 https://github.com/gnxm37/portfolio/assets/133202877/7f280e9f-e8c3-48e2-81ce-33e79d165288
